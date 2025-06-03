@@ -2,6 +2,14 @@
 
 ###
 
+<p align="center">Olá, eu sou a Tereza!<br>Conheça um pouquinho dos meus projetos e contribuições.</p>
+
+###
+
+<p align="left">🌱Desenvolvedora full-stack<br>📚 Aprimorando React e TypeScript<br>🎯 Fazer projetos que mudem o mundo<br>🎲 Sou apaixonada por cinema e educação</p>
+
+###
+
 <h2 align="left">Techs:</h2>
 
 ###
