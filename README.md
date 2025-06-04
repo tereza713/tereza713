@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱Desenvolvedora full-stack<br>📚 Aprimorando React e TypeScript<br>🎯 Fazer projetos que mudem o mundo<br>🎲 Sou apaixonada por cinema e educação</p>
+<p align="left">🌱Desenvolvedora full-stack em desenvolvimento<br>📚 Aprimorando React e TypeScript<br>🎯 Foco em fazer projetos que mudem o mundo<br>🎲 Sou apaixonada por cinema e educação</p>
 
 ###
 
@@ -39,9 +39,16 @@
 
 ###
 
+<h2 align="left">Contact:</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/devbrunaterezasilva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="brunaaasilvaaa261@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
