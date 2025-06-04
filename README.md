@@ -10,6 +10,14 @@
 
 ###
 
+<h3 align="left">Other important facts...</h3>
+
+###
+
+<p align="left">Sou estudante do terceiro ano do ensino médio e curso técnico em Informática integrado. Comecei a programar no Programadores do Amanhã, onde desenvolvi habilidades em HTML, CSS, JavaScript, Node.js, MySQL, entre outras.<br>Fui líder de squad no programa, o que fortaleceu meu trabalho em equipe e minha experiência com projetos colaborativos. Sigo aprendendo e buscando crescer na área da tecnologia.</p>
+
+###
+
 <h2 align="left">Techs:</h2>
 
 ###
